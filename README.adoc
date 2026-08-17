@@ -6,5 +6,6 @@ Sie befinden sich auf der Startseite des Themas **"<Hier_Themenname_eingeben> (<
 
 * https://ch-sz-geo.github.io/Test/[Daten, Datenmodell, Modellbeschreibung, Erfassungsrichtlinie usw.] zu diesem Thema
 * https://ch-sz-geo.github.io/A000_entrypage/[Einstiegsseite] mit weiteren Themenbeschreibungen
-* https://data.geo.sz.ch/public/Themen/Themenliste.xml[Übersicht der Themen] mit der Zusammenstellung weiterer Beschreibungen
+* https://data.geo.sz.ch/public/Themen/Themenliste.xml[Übersicht der Themen] mit der Zusammenstellung weiterer Beschreibungen Testen wir sachen
+
 endif::[]
